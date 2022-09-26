@@ -1,3 +1,4 @@
+#给一个数，找出所有小于等于这个数的质数
 def is_prime(n):
     i = 2
     while i * i <= n:
